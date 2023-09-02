@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Dharaneesh</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<img align="middle" alt="coding" width="400" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif">
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dharaneesh0745&label=Profile%20views&color=0e75b6&style=flat" alt="dharaneesh0745" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dharaneesh0745" alt="dharaneesh0745" /></a> </p>
