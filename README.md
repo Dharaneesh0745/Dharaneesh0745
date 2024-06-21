@@ -20,10 +20,7 @@
 <a href="https://stackoverflow.com/users/https://stackoverflow.com/users/22486528/dharaneesh-boobalan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/22486528/dharaneesh-boobalan" height="30" width="40" /></a>
 <a href="https://kaggle.com/https://www.kaggle.com/dharaneeshboobalan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/dharaneeshboobalan" height="30" width="40" /></a>
 <a href="https://instagram.com/_._dharaneesh_0745_._" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_._dharaneesh_0745_._" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/https://youtube.com/@deepdreamer_saas?si=c_cab-fig4_kbinb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://youtube.com/@deepdreamer_saas?si=c_cab-fig4_kbinb" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/https://www.hackerrank.com/dharaneesh0745" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/dharaneesh0745" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/dharaneesh_0745/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/dharaneesh_0745/" height="30" width="40" /></a>
-<a href="https://discord.gg/https://discord.gg/SsZJej3X" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/SsZJej3X" height="30" width="40" /></a>
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
