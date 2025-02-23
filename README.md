@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dharaneesh</h1>
-<h3 align="center">A passionate Full-Stack developer from India</h3>
+<h3 align="center">A passionate ML Engineer & Full-Stack developer.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dharaneesh0745&label=Profile%20views&color=0e75b6&style=flat" alt="dharaneesh0745" /> </p>
 
@@ -7,11 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/dharaneesh0745" target="blank"><img src="https://img.shields.io/twitter/follow/dharaneesh0745?logo=twitter&style=for-the-badge" alt="dharaneesh0745" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [https://codewithdharaneesh.me](https://codewithdharaneesh.me)
+- 👨‍💻 All of my projects are available at [https://dharaneesh.codesynth.xyz](https://dharaneesh.codesynth.xyz)
 
-- 📝 I regularly write articles on [https://codewithdharaneesh.me/blogs](https://codewithdharaneesh.me/blogs)
-
-- 📫 How to reach me **dharaneesh0745@gmail.com**
+- 📫 How to reach me **dharaneesh5577@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
