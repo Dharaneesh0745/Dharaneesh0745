@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/dharaneesh0745" target="blank"><img src="https://img.shields.io/twitter/follow/dharaneesh0745?logo=twitter&style=for-the-badge" alt="dharaneesh0745" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [https://dharaneesh.codesynth.xyz](https://dharaneesh.codesynth.xyz)
+- 👨‍💻 All of my projects are available at [https://www.codesynth.xyz](https://www.codesynth.xyz)
 
 - 📫 How to reach me **dharaneesh5577@gmail.com**
 
