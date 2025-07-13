@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Dharaneesh and I'm a AI Engineer & Full-stack Developer, from Coimbatore, India</h2>
+<h2 align="left">Hi 👋! My name is Dharaneesh and I'm a AI Engineer, from Coimbatore, India</h2>
 
 ###
 
