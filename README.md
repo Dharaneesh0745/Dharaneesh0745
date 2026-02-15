@@ -1,8 +1,8 @@
-<h2 align="left">Hi 👋! My name is Dharaneesh and I'm a AI Engineer, from Coimbatore, India</h2>
+<h2 align="left">Hi 👋! My name is Dharaneesh and I'm a ML Engineer, from Coimbatore, India</h2>
 
 ###
 
-<p align="left">GenAI Developer and Full-Stack Developer with a passion for web, app, and RAG development. Proficient in front-end technologies like React.js, Next.js, Redux, TailwindCSS and creating responsive and user-friendly interfaces. Skilled in back-end frameworks including Node.js, Express.js, and FastAPI, building scalable and robust applications. Experienced in integrating generative AI with RAG pipeline to deliver innovative, intelligent solutions.</p>
+<p align="left">ML Engineer and AI + Full-Stack Developer with a passion for machine learning and deep learning, web, app, and generative AI development. Proficient in building ML & DL models and custimizing it's base algorithms and theorems based on use-case, having experience on building model inference engine using C++, Excellent in building Generative & Agentic AI projects, additionally having skills on front-end technologies like React.js, Next.js, Redux, TailwindCSS and creating responsive and user-friendly interfaces. Skilled in back-end frameworks including Node.js, Express.js, and FastAPI, building scalable and robust applications. Experienced in integrating generative AI with RAG pipeline to deliver innovative, intelligent solutions.</p>
 
 ###
 
