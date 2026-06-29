@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dharaneesh0745&label=Profile%20views&color=0e75b6&style=flat" alt="dharaneesh0745" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dharaneesh0745" alt="dharaneesh0745" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dharaneesh0745&no-frame=true&no-bg=true&margin-w=4" alt="dharaneesh0745" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/dharaneesh0745" target="blank"><img src="https://img.shields.io/twitter/follow/dharaneesh0745?logo=twitter&style=for-the-badge" alt="dharaneesh0745" /></a> </p>
+<p align="left"> <a href="https://twitter.com/dharaneesh0745" target="blank"><img src="https://img.shields.io/badge/Follow-%40dharaneesh0745-1DA1F2?style=for-the-badge&logo=x&logoColor=white" alt="dharaneesh0745" /></a> </p>
 
 - 🔭 I'm currently working on [Yukon (my open-source project)](https://github.com/Dharaneesh0745/yukon)
 
@@ -82,8 +82,10 @@
 <a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/> </a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dharaneesh0745&show_icons=true&locale=en&layout=compact" alt="dharaneesh0745" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dharaneesh0745&show_icons=true&locale=en&layout=compact&cache_seconds=86400" alt="dharaneesh0745" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dharaneesh0745&show_icons=true&locale=en" alt="dharaneesh0745" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dharaneesh0745&show_icons=true&locale=en&cache_seconds=86400" alt="dharaneesh0745" /></p>
+
+<br clear="left"/>
 
 <p><img align="center" src="https://streak-stats.demolab.com/?user=dharaneesh0745" alt="dharaneesh0745" /></p>
